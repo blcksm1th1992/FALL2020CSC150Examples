@@ -13,7 +13,10 @@ Currently this Folder contains the following files:
           
 2.) BashIDE
       This is a script showing how to use variables and user input to create a simple "IDE" in bash to create custom executables from C files using the GCC tool.
-      
+
+Note: Many of the Bash scripts have a linux_approved tag on them; this is due to writing enivroment differneces between windows and unix systems. When new lines are created windows uses \r whereas Linux uses \n. So the Linux_approved ones are files that have been converted from the windows \r writing.
+
+
 # C Examples:
 Currently this Folder contiains the following files:
 1.) Hobbit.c
